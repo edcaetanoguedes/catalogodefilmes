@@ -42,7 +42,7 @@
     - TMDB: Filmes, séries, programas de TV, etc.
   - [x] Autenticação: Definição do método de autenticação (0Auth, JWT, etc).
     - JWT e 0Auth.
-  - [] Rotas de API.
+  - [ ] Rotas de API.
     - [x] Definição das rotas de API.
     - [ ] Construção das rotas de API.
   - [ ] Padronização dos métodos de integração (GET, POST, etc).
