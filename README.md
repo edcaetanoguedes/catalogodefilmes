@@ -33,17 +33,17 @@
 
 ## Estágios de projeto
 
-- [ ] Modelagem inicial do projeto
+- [x] Modelagem inicial do projeto
   - [x] Limpeza de código desnecessário e configurações iniciais necessárias.
   - [x] README: construção da redação inicial.
   - [x] SEO: Configuração inicial dos mecanismos de busca.
 - [ ] Backend
-  - [ ] Fonte de dados: Definição da API.
+  - [x] Fonte de dados: Definição da API.
     - TMDB: Filmes, séries, programas de TV, etc.
-  - [ ] Autenticação: Definição do método de autenticação (0Auth, JWT, etc).
+  - [x] Autenticação: Definição do método de autenticação (0Auth, JWT, etc).
     - JWT e 0Auth.
-  - [ ] Rotas de API.
-    - [ ] Definição das rotas de API.
+  - [] Rotas de API.
+    - [x] Definição das rotas de API.
     - [ ] Construção das rotas de API.
   - [ ] Padronização dos métodos de integração (GET, POST, etc).
   - [ ] Teste.
