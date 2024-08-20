@@ -36,7 +36,7 @@
 - [ ] Modelagem inicial do projeto
   - [x] Limpeza de código desnecessário e configurações iniciais necessárias.
   - [x] README: construção da redação inicial.
-  - [ ] SEO: Configuração inicial dos mecanismos de busca.
+  - [x] SEO: Configuração inicial dos mecanismos de busca.
 - [ ] Backend
   - [ ] Fonte de dados: Definição da API.
     - TMDB: Filmes, séries, programas de TV, etc.
