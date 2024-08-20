@@ -35,7 +35,7 @@
 
 - [ ] Modelagem inicial do projeto
   - [x] Limpeza de código desnecessário e configurações iniciais necessárias.
-  - [ ] README: construção da redação inicial.
+  - [x] README: construção da redação inicial.
   - [ ] SEO: Configuração inicial dos mecanismos de busca.
 - [ ] Backend
   - [ ] Fonte de dados: Definição da API.
