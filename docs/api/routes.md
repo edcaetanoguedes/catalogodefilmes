@@ -63,7 +63,7 @@ response:
           w500: "~/w500/backdrop_path.jpg"
         },
       },
-      "genres": [ "Ação", "Crime", ... ],
+      "genres": [ "Ação", "Crime", ... ]
     }
   ]
 ```
